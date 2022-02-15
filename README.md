@@ -9,5 +9,5 @@ pip install -r requirements.txt
 To run write 
 
 ```
-py rosstat.py
+py main.py
 ```
